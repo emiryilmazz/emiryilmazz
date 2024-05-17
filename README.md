@@ -17,7 +17,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=emiryilmazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 200px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=emiryilmazz&icon=5&color=6)](https://visitcount.itsvg.in)
 
