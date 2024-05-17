@@ -21,12 +21,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false" width="45%" height="200">
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryilmazz&theme=merko&hide_border=true" width="90%" height="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryilmazz&theme=merko&hide_border=true" width="70%" height="200">
 </div>
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" width="45%" height="200">
-    <img src="https://memer-new.vercel.app/" style="height: 200px; width: 45%">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" width="45%" height="250">
+    <img src="https://memer-new.vercel.app/" style="height: 250px; width: 45%">
 </div>
 
 
