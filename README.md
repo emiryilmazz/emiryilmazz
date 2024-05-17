@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/tr/view/gibi-dizi-gibi-gif-kıvanç-kılınç-posing-gibi-ilkkan-gif-12995298414366707891"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z0aG04NWNva3VtMm9seGpiOGUwdWNwMnMxNm1ncDRxZmd0aHRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fZLMbuCOqJ82gec/giphy.gif"  />
 
 ###
 
