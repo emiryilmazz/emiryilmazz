@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" width="45%" height="150">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" width="45%" height="250">
     <img src="https://memer-new.vercel.app/" style="height: 250px; width: 45%">
 </div>
 
