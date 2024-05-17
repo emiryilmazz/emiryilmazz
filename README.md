@@ -19,7 +19,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="300">
     <img src="https://github-readme-stats.vercel.app/api?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false" width="40%" height="300">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryilmazz&theme=merko&hide_border=true" width="30%" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryilmazz&theme=merko&hide_border=true" width="30%" height="300">
 </div>
 
 <div align="center">
