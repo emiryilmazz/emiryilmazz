@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Emir+and+I'm+a+QA+Tester+from+Istanbul" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Emir+and+I'm+a+QA+Tester" alt="Typing SVG" /></a>
 
 ###
 
