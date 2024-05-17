@@ -7,10 +7,12 @@
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emiryilmazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
- <img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z0aG04NWNva3VtMm9seGpiOGUwdWNwMnMxNm1ncDRxZmd0aHRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fZLMbuCOqJ82gec/giphy.gif"  />
+ 
 
 ###
-
+<div align="right">
+  <img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z0aG04NWNva3VtMm9seGpiOGUwdWNwMnMxNm1ncDRxZmd0aHRtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fZLMbuCOqJ82gec/giphy.gif"  />
+</div>
 
 
 ###
@@ -29,9 +31,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/emiryilmazz/count.svg?"  />
-</div>
+
 
 ###
 
@@ -54,4 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/emiryilmazz/count.svg?"  />
+</div>
 ###
