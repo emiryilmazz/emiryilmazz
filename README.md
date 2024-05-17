@@ -13,13 +13,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emiryilmazz&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=emiryilmazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=emiryilmazz&icon=5&color=6)](https://visitcount.itsvg.in)
