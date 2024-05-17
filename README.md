@@ -32,7 +32,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/emiryilmazz/count.svg?"  />
 </div>
-![](https://komarev.com/ghpvc/?username=your-github-emiryilmazz)
 
 ###
 
