@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emir and I'm a QA Tester from İstanbul</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Emir+and+I'm+a+QA+Tester+from+%C4%B0stanbul" alt="Typing SVG" /></a>
 
 ###
 
