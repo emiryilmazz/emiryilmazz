@@ -44,7 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/emiryilmazz/emiryilmazz/output/snake.svg" alt="Snake animation" />
 
 ###
 
