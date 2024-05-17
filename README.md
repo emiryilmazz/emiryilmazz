@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false" style="height: 250px; width: 50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%" style="height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryilmazz&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" style="height: 250px;">
 </div>
 
 <div align="center">
