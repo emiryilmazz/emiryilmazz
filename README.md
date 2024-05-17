@@ -9,8 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh4NmpqOG1kZ3g5cXMxMWllcmp0MGVmYXQ2d3VibjR2aGlyNmtxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SF9Z0shNT07T2/giphy.gif"  />
-<div class="tenor-gif-embed" data-postid="12995298414366707891" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gibi-dizi-gibi-gif-k%C4%B1van%C3%A7-k%C4%B1l%C4%B1n%C3%A7-posing-gibi-ilkkan-gif-12995298414366707891">Gibi Dizi Gibi Gif GIF</a>from <a href="https://tenor.com/search/gibi+dizi-gifs">Gibi Dizi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://tenor.com/tr/view/gibi-dizi-gibi-gif-kıvanç-kılınç-posing-gibi-ilkkan-gif-12995298414366707891"  />
+
 ###
 
 <div align="left">
