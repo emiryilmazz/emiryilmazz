@@ -1,4 +1,5 @@
-# 💫 About Me:...
+# 💫 About Me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&pause=1000&random=false&width=435&lines=I%E2%80%99m+interested+in+Software+Testing" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
