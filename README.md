@@ -15,7 +15,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-![](https://github-contributor-stats.vercel.app/api?username=emiryilmazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src='https://memer-new.vercel.app/' style="height: 200px;"/>
 
